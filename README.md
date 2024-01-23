@@ -24,10 +24,9 @@ This Weather App is a simple web application that allows users to check the curr
 
 To run the Weather App locally, clone the repository and open the `index.html` file in a web browser. Make sure to replace the WeatherAPI key in the JavaScript code with your own key.
 
-```javascript
-const url = `https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=${target}`;
+ 
 
- ## Usage
+## Usage
 
 1. Open the app in a web browser.
 2. Enter the desired location in the search field.
